@@ -27,5 +27,6 @@ I'm passionate about Web Development and Generative AI.
 LinkedIn:
 [(Your LinkedIn)](https://www.linkedin.com/in/dharmatejabairy23/)
 
+
 Email:
-(Your Email)
+Bairydharmateja@gmail.com
